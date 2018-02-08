@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         calendar.setTimeInMillis(System.currentTimeMillis());
         calendar.set(Calendar.HOUR_OF_DAY, 3);
-        calendar.set(Calendar.MINUTE, 39);
+        calendar.set(Calendar.MINUTE, 47);
         calendar.set(Calendar.SECOND, 0);
         calendar.set(Calendar.MILLISECOND, 0);
 
